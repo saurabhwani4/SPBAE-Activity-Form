@@ -1,0 +1,187 @@
+label{
+	font-size: 14px;
+}
+
+header{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	border: solid 1px;
+	font-size: 20px;
+	background-image: linear-gradient(90deg, #147bd1c2 0, #2cccd3) !important;
+	color: white;
+	font-weight: 700;
+}
+
+form{
+	margin: 0 auto;
+}
+
+.loc-left{
+	margin-left: 23px; 
+}
+
+.tasksInput{
+    display:inline;
+
+}
+.form-control
+{
+    display:inline;
+width:100px;
+}
+
+#myChecks label{margin-left:10px;}
+
+.MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"] {
+    padding: 0px;
+}
+
+.MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"] .MuiAutocomplete-input:first-child {
+    padding-left: 6px !important;
+    max-height: 4px !important;
+    font-family: "Segoe UI Web (West European)",Segoe UI,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+}
+
+
+.validation{
+    color: Red;
+    padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	border: solid 1px red;
+    font-weight: bold;
+}
+
+.container{
+    width: 80% !important;
+}
+
+.form{
+    width:150%;
+}
+
+#onetIDListForm{
+    width: 75% !important;
+}
+
+
+input#dropdown {
+    border: none;
+}
+
+.MSO_tblPageBody{
+	border: 5px solid;
+}
+
+input#dropdown {
+	border: none;
+}
+
+/*
+.MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"] .MuiAutocomplete-endAdornment {
+	right: -15% !important;
+}
+
+button.MuiButtonBase-root.MuiIconButton-root.MuiAutocomplete-clearIndicator.MuiAutocomplete-clearIndicatorDirty {
+    margin-right: -80px;
+    padding: 6px;
+}
+
+button.ms-Button.ms-Button--icon.ms-PickerItem-removeButton.removeButton-140 {
+    min-width: 25px;
+}
+*/
+
+._2hO6ncpWlUNK05lxQ9_UtY {
+    padding-right: 20px;
+    max-height: 40px;
+}
+
+
+
+input.ms-BasePicker-input.input-44 {
+    border: none;
+}
+
+
+
+
+
+
+input[type=password][disabled], input[type=text][disabled], input[type=file][disabled], input:not([type])[disabled], textarea[disabled], select[disabled], .sp-peoplepicker-topLevelDisabled, .ms-inputBoxDisabled {
+    color: #a6a6a6;
+    border-color: #eaeaea;
+    background-color: transparent !important;
+}
+
+.ms-BasePicker-text.text-75 {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    align-items: center;
+    box-sizing: border-box;
+    min-width: 180px;
+    min-height: 30px;
+    border: none !important;
+}
+
+input.ms-BasePicker-input.input-77 {
+    border: 1px solid #ced4da !important;
+    border-radius: .25rem !important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out !important;
+}
+
+input#location_input {
+    background-color: transparent !important; 
+}
+
+input#dropdown_input {
+    background-color: transparent !important; 
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #F2F4F4 !important;
+    opacity: 1;
+}
+
+
+._1g3J-bKd9rjyM8leQ8BRL8 {
+    pointer-events: none;
+    opacity: 1 !important;
+    background-color: #F2F4F4 !important;
+} 
+
+._32r8xHW3WLH5mygPuyDIBF {
+    background: none;
+    border-radius: none;
+    color: inherit;
+    white-space: nowrap;
+    font-size: inherit !important;
+}
+
+._7ahQImyV4dj0EpcNOjnwA {
+    padding: 2px 10px !important;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: inherit !important;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.stack-top{
+        position: absolute;
+        left: 40%;
+        top: 25%;
+    }
